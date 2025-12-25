@@ -1,0 +1,84 @@
+I can help you create a simple news website and explain how to earn money from ads. I’ll keep this beginner-friendly.
+📰 1. How you make money (important)
+You don’t earn money just by creating a site. You need:
+Ad network (Google AdSense is the most common)
+Traffic (people visiting your site)
+Original content (not copied)
+When visitors see or click ads, you earn money.
+🛠️ 2. Simple news website (ready-to-use)
+Below is a basic news website you can upload to hosting.
+📄 index.html
+Copy code
+Html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Daily Doze News</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial; margin:0; background:#f4f4f4;}
+header {background:#111; color:#fff; padding:15px; text-align:center;}
+.article {background:#fff; margin:15px; padding:15px; border-radius:5px;}
+footer {text-align:center; padding:10px; background:#111; color:#fff;}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Daily Doze</h1>
+<p>Quick & Trusted News Updates</p>
+</header>
+
+<div class="article">
+<h2>Breaking News</h2>
+<p>This is where your news article will appear. Update daily.</p>
+</div>
+
+<!-- AD SPACE -->
+<div class="article">
+<p>Advertisement</p>
+<!-- Paste AdSense code here -->
+</div>
+
+<footer>
+<p>© 2025 Daily Doze</p>
+</footer>
+
+</body>
+</html>
+🌍 3. Put your website online (FREE)
+Option A: GitHub Pages (Free)
+Create a GitHub account
+Create a repository named: yourname.github.io
+Upload index.html
+Go to Settings → Pages
+Your site goes live
+Option B: Blogger / WordPress (Easier)
+Blogger.com (Google owned)
+WordPress.com
+💰 4. Add ads (how you get paid)
+Best Ad Networks:
+Google AdSense (recommended)
+Media.net
+PropellerAds
+Google AdSense steps:
+Go to adsense.google.com
+Apply with your website
+After approval, copy ad code
+Paste code where it says:
+Copy code
+Html
+<!-- Paste AdSense code here -->
+⚠️ Important rules (or you won’t get paid)
+❌ No copied news
+❌ No fake traffic
+❌ No clicking your own ads
+✅ Post original content
+✅ Add Privacy Policy & About page
+🚀 Want me to:
+Create full professional news website?
+Add multiple pages (About, Contact, Privacy)?
+Help with AdSense approval?
+Make it mobile-friendly & SEO ready?
+Tell me YES and what you want next.
